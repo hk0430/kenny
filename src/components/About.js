@@ -22,7 +22,7 @@ class About extends Component {
             </div>
           </div>
           <div className="right">
-            <img alt={"profile"} src={profile} /><br/><br/>
+            <img id="profilepic" alt={"profile"} src={profile} /><br/><br/>
             <h2>Kenny Hu</h2>
             <h4>Junior at Stony Brook University</h4>
             <h5>Computer Science, B.S.</h5>

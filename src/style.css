@@ -79,6 +79,10 @@
     font-size: 200%;
 }
 
+#profilepic {
+    height: 35%;
+}
+
 img {
     border-radius: 50%;
     padding: 10px;
@@ -96,7 +100,7 @@ img {
     padding: 10px;
 }
 
-.skills_header {
+.skills_header, .exp_header {
     font-size: 250%;
     font-weight: bold;
 }
@@ -120,4 +124,48 @@ img {
 
 .col-md-3 {
     font-size: 150%;
+}
+
+#experience {
+    height: 95vh;
+    padding: 30px 0 30px 0;
+    text-align: center;
+    background-color: #77A6F7;
+    color: white;
+}
+
+.worked {
+    font-size: 200%;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    color: #00887A;
+    border-radius: 15px;
+}
+  
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+  
+.container {
+    padding: 2px 16px;
+}
+
+.card_left {
+    float: left;
+    width: 37%;
+    margin-left: 5%;
+    height: 45vh;
+    overflow: auto;
+}
+
+.card_right {
+    float: right;
+    width: 37%;
+    margin-right: 5%;
+    height: 65vh;
+    overflow: auto;
 }
