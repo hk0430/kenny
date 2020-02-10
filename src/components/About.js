@@ -11,9 +11,14 @@ class About extends Component {
         <div id="about">
           <div className="left">
             <div className="intro">
-              Hey there, my name is Kenny Hu. I'm an undergraduate student studying Computer Science and Applied Mathematics at Stony Brook University.<br/><br/>
-              My main interests include software development, artificial intelligence, and cybersecurity.<br/><br/>
-              During my free time I like to workout, hang out with friends, play games, and code.
+              <div className="i_am">I am a...</div>
+              <div className="who_i_am">Stony Brook Seawolf</div>
+              <div className="who_i_am">Software Developer</div>
+              <div className="who_i_am">Fitness Ethusiast</div><br/>
+              <div className="i_am">I am interested in...</div>
+              <div className="who_i_am">Software Development</div>
+              <div className="who_i_am">Artificial Intelligence</div>
+              <div className="who_i_am">Cybersecurity</div>
             </div>
           </div>
           <div className="right">

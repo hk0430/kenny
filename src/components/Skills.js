@@ -14,8 +14,8 @@ class Skills extends Component {
             <ProgressBar className="header_progress">
               <ProgressBar variant="danger" now={25} label={"Beginner"} key={1} />
               <ProgressBar variant="warning" now={25} label={"Intermediate"} key={2} />
-              <ProgressBar variant="info" now={25} label={"Advanced"} key={3} />
-              <ProgressBar variant="success" now={25} label={"Expert"} key={4} />
+              <ProgressBar variant="success" now={25} label={"Advanced"} key={3} />
+              <ProgressBar variant="info" now={25} label={"Expert"} key={4} />
             </ProgressBar>
           </div>
         </div><br/>
@@ -24,28 +24,28 @@ class Skills extends Component {
         <div className="row">
           <div className="col-md-3">Java</div>
           <div className="col-md-9">
-            <ProgressBar className="progress_bar" variant="success" now={85} key={5} />
+            <ProgressBar className="progress_bar" variant="info" now={85} key={5} />
           </div>
         </div>
 
         <div className="row">
           <div className="col-md-3">JavaScript</div>
           <div className="col-md-9">
-            <ProgressBar className="progress_bar" variant="success" now={85} key={6} />
+            <ProgressBar className="progress_bar" variant="info" now={85} key={6} />
           </div>
         </div>
 
         <div className="row">
           <div className="col-md-3">HTML/CSS</div>
           <div className="col-md-9">
-            <ProgressBar className="progress_bar" variant="success" now={80} key={7} />
+            <ProgressBar className="progress_bar" variant="info" now={80} key={7} />
           </div>
         </div>
 
         <div className="row">
           <div className="col-md-3">Python</div>
           <div className="col-md-9">
-            <ProgressBar className="progress_bar" variant="info" now={74} key={8} />
+            <ProgressBar className="progress_bar" variant="success" now={74} key={8} />
           </div>
         </div>
 
@@ -68,21 +68,21 @@ class Skills extends Component {
         <div className="row">
           <div className="col-md-3">React</div>
           <div className="col-md-9">
-            <ProgressBar className="progress_bar" variant="info" now={74} key={11} />
+            <ProgressBar className="progress_bar" variant="success" now={74} key={11} />
           </div>
         </div>
 
         <div className="row">
           <div className="col-md-3">Redux</div>
           <div className="col-md-9">
-            <ProgressBar className="progress_bar" variant="info" now={70} key={12} />
+            <ProgressBar className="progress_bar" variant="success" now={70} key={12} />
           </div>
         </div>
 
         <div className="row">
           <div className="col-md-3">Bootstrap</div>
           <div className="col-md-9">
-            <ProgressBar className="progress_bar" variant="info" now={70} key={13} />
+            <ProgressBar className="progress_bar" variant="success" now={70} key={13} />
           </div>
         </div>
 
@@ -91,14 +91,14 @@ class Skills extends Component {
         <div className="row">
           <div className="col-md-3">Cantonese</div>
           <div className="col-md-9">
-            <ProgressBar className="progress_bar" variant="success" now={100} key={14} />
+            <ProgressBar className="progress_bar" variant="info" now={100} key={14} />
           </div>
         </div>
 
         <div className="row">
           <div className="col-md-3">Mandarin</div>
           <div className="col-md-9">
-            <ProgressBar className="progress_bar" variant="success" now={100} key={15} />
+            <ProgressBar className="progress_bar" variant="info" now={100} key={15} />
           </div>
         </div>
 

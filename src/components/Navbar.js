@@ -29,6 +29,17 @@ class Navbar extends Component {
                             Skills
                         </Link>
                     </li>
+                    <li className="nav-item">
+                        <Link
+                            activeClass="active"
+                            to="experience"
+                            spy={true}
+                            smooth={true}
+                            offset={-70}
+                            duration={500}  >
+                            Experience
+                        </Link>
+                    </li>
                 </ul>
             </div>
         </nav>

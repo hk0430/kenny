@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Navbar from './components/Navbar';
 import About from './components/About';
 import Skills from './components/Skills';
+import Experience from './components/Experience';
 
 class App extends Component {
   render() {
@@ -10,6 +11,7 @@ class App extends Component {
         <Navbar />
         <About id="about" />
         <Skills id="skills" />
+        <Experience id="experience" />
       </div>
     );
   }
