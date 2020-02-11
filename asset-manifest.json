@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kenny/static/css/main.e670e5cd.chunk.css",
+    "main.css": "/kenny/static/css/main.58cd549c.chunk.css",
     "main.js": "/kenny/static/js/main.8f9a98d3.chunk.js",
     "main.js.map": "/kenny/static/js/main.8f9a98d3.chunk.js.map",
     "runtime-main.js": "/kenny/static/js/runtime-main.22241a45.js",
@@ -9,10 +9,10 @@
     "static/js/2.0e0f9aaf.chunk.js": "/kenny/static/js/2.0e0f9aaf.chunk.js",
     "static/js/2.0e0f9aaf.chunk.js.map": "/kenny/static/js/2.0e0f9aaf.chunk.js.map",
     "index.html": "/kenny/index.html",
-    "precache-manifest.b4c733366b54ef5dc3fa948a55e6a44e.js": "/kenny/precache-manifest.b4c733366b54ef5dc3fa948a55e6a44e.js",
+    "precache-manifest.aa3017ba3ec860c4ea0421292b1776bc.js": "/kenny/precache-manifest.aa3017ba3ec860c4ea0421292b1776bc.js",
     "service-worker.js": "/kenny/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/kenny/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.e670e5cd.chunk.css.map": "/kenny/static/css/main.e670e5cd.chunk.css.map",
+    "static/css/main.58cd549c.chunk.css.map": "/kenny/static/css/main.58cd549c.chunk.css.map",
     "static/js/2.0e0f9aaf.chunk.js.LICENSE.txt": "/kenny/static/js/2.0e0f9aaf.chunk.js.LICENSE.txt",
     "static/media/linkedin.jpg": "/kenny/static/media/linkedin.ad0e3fac.jpg",
     "static/media/resume.pdf": "/kenny/static/media/resume.6c25b57c.pdf"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.22241a45.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.0e0f9aaf.chunk.js",
-    "static/css/main.e670e5cd.chunk.css",
+    "static/css/main.58cd549c.chunk.css",
     "static/js/main.8f9a98d3.chunk.js"
   ]
 }
