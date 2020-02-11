@@ -91,8 +91,7 @@ img {
 #skills {
     padding: 30px 0 30px 0;
     text-align: center;
-    color: #D1E8E2;
-    background-color: #2C3531;
+    color: #00887A;
     overflow: hidden;
 }
 
@@ -130,7 +129,7 @@ img {
     height: 95vh;
     padding: 30px 0 30px 0;
     text-align: center;
-    background-color: #77A6F7;
+    background-color: #41B3A3;
     color: white;
 }
 
@@ -144,6 +143,7 @@ img {
     width: 40%;
     color: #00887A;
     border-radius: 15px;
+    overflow: auto;
 }
   
 .card:hover {
@@ -152,20 +152,15 @@ img {
   
 .container {
     padding: 2px 16px;
+    vertical-align: middle;
 }
 
 .card_left {
     float: left;
-    width: 37%;
     margin-left: 5%;
-    height: 45vh;
-    overflow: auto;
 }
 
 .card_right {
     float: right;
-    width: 37%;
     margin-right: 5%;
-    height: 65vh;
-    overflow: auto;
 }
