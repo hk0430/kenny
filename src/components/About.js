@@ -14,17 +14,20 @@ class About extends Component {
               <div className="i_am">I am a...</div>
               <div className="who_i_am">Stony Brook Seawolf</div>
               <div className="who_i_am">Software Developer</div>
-              <div className="who_i_am">Fitness Ethusiast</div><br/>
+              <div className="who_i_am">Fitness Ethusiast</div>
+              <div className="who_i_am">Options Trader</div><br/>
               <div className="i_am">I am interested in...</div>
               <div className="who_i_am">Software Development</div>
               <div className="who_i_am">Artificial Intelligence</div>
               <div className="who_i_am">Cybersecurity</div>
+              <div className="who_i_am">FinTech</div>
             </div>
           </div>
           <div className="right">
             <img id="profilepic" alt={"profile"} src={profile} /><br/><br/>
             <h2>Kenny Hu</h2>
-            <h4>Junior at Stony Brook University</h4>
+            <h4>Stony Brook University</h4>
+            <h5>Class of 2021</h5>
             <h5>Computer Science, B.S.</h5>
             <h5>Applied Mathematics and Statistics, B.S.</h5><br/><br/>
             <h4>Contact Me</h4>
