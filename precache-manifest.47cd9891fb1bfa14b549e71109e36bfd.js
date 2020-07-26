@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7c5e457b6556db03cc5dcfb051af3a9",
+    "revision": "8645a7b7b83826cd046618734cbaf81c",
     "url": "/kenny/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kenny/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "06f7be67e2dde0553b57",
+    "revision": "6a53b85bcea32c08a306",
     "url": "/kenny/static/css/main.762409d1.chunk.css"
   },
   {
@@ -20,19 +20,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kenny/static/js/2.0e0f9aaf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "06f7be67e2dde0553b57",
-    "url": "/kenny/static/js/main.0f0c3238.chunk.js"
+    "revision": "6a53b85bcea32c08a306",
+    "url": "/kenny/static/js/main.5a8ed034.chunk.js"
   },
   {
     "revision": "c0e287344f3b5c8259a8",
     "url": "/kenny/static/js/runtime-main.22241a45.js"
   },
   {
-    "revision": "f038ab50849fbd75c2ffd38492e4e40b",
-    "url": "/kenny/static/media/linkedin.f038ab50.jpg"
+    "revision": "a0fe901c5c8baa352f046267c6154754",
+    "url": "/kenny/static/media/Kenny Hu Resume.a0fe901c.pdf"
   },
   {
-    "revision": "be23fb25145e75d79ae3ee55cbfd528e",
-    "url": "/kenny/static/media/resume.be23fb25.pdf"
+    "revision": "f038ab50849fbd75c2ffd38492e4e40b",
+    "url": "/kenny/static/media/linkedin.f038ab50.jpg"
   }
 ]);
