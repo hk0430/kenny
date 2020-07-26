@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import ProgressBar from 'react-bootstrap/ProgressBar';
 import Button from 'react-bootstrap/Button';
-import Resume from '../documents/resume.pdf';
+import Resume from '../documents/Kenny Hu Resume.pdf';
 
 class Skills extends Component {
   render() {
