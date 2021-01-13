@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c040c7c739c7a75e4d12e9113712cad2",
+    "revision": "7caf46601e479c27a923836d27400108",
     "url": "/kenny/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kenny/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "47b05254a58ce5c5bf4b",
+    "revision": "c3cc155043ba5a3971ee",
     "url": "/kenny/static/css/main.762409d1.chunk.css"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kenny/static/js/2.0e0f9aaf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "47b05254a58ce5c5bf4b",
-    "url": "/kenny/static/js/main.85453b46.chunk.js"
+    "revision": "c3cc155043ba5a3971ee",
+    "url": "/kenny/static/js/main.a7479033.chunk.js"
   },
   {
     "revision": "c0e287344f3b5c8259a8",
     "url": "/kenny/static/js/runtime-main.22241a45.js"
   },
   {
-    "revision": "138f1815fbbcf5b3db94c3b19cddb3c4",
-    "url": "/kenny/static/media/Kenny Hu Resume.138f1815.pdf"
+    "revision": "03bc7ac6708fde07fb19b90cf9bc12c6",
+    "url": "/kenny/static/media/Kenny Hu Resume.03bc7ac6.pdf"
   },
   {
     "revision": "f038ab50849fbd75c2ffd38492e4e40b",
