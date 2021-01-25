@@ -17,10 +17,10 @@ class About extends Component {
               <div className="who_i_am">Fitness Ethusiast</div>
               <div className="who_i_am">Options Trader</div><br/>
               <div className="i_am">I am interested in...</div>
-              <div className="who_i_am">Software Development</div>
-              <div className="who_i_am">Artificial Intelligence</div>
-              <div className="who_i_am">Cybersecurity</div>
               <div className="who_i_am">FinTech</div>
+              <div className="who_i_am">Cybersecurity</div>
+              <div className="who_i_am">Artificial Intelligence</div>
+              <div className="who_i_am">Software Development</div>
             </div>
           </div>
           <div className="right">
