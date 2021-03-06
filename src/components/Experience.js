@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import nvDistricts from '../Data/nvDistricts.json';
 
 class Experience extends Component {
   render() {
